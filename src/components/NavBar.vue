@@ -1,16 +1,34 @@
 <template>
   <div id="navbar">
-    <router-link to="/">Home</router-link>
-    <router-link to="/blog">Blog</router-link>
-    <router-link to="/workhistory">Work History</router-link>
 
-    <div>
-      <!-- As a link -->
-      <b-navbar variant="faded" type="light">
-        <b-navbar-brand href="#">BootstrapVue</b-navbar-brand>
-      </b-navbar>
-    </div>
+    <b-navbar id="navbar-custom" sticky="true" toggleable="md">
 
+      <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+
+      <b-collapse id="nav-collapse" is-nav>
+        <b-navbar-nav class="mx-auto">
+
+
+          <!-- Link to Home - MainPage.vue -->
+          <b-nav-item to="/">[ home ]</b-nav-item>
+
+          <!-- Link Dropdown for Work History - WorkHistory.vue -->
+          <b-nav-item-dropdown text="[ work history ]" right>
+            <b-dropdown-item to="/workhistory">[ Full Work History ]</b-dropdown-item>
+            <b-dropdown-item to="/virtualresume">[ Virtual Resume ]</b-dropdown-item>
+            <b-dropdown-item to="/techvideogallery">[ Software Engineering Gallery ]</b-dropdown-item>
+            <b-dropdown-item to="/archgallery">[ Architectural Gallery ]</b-dropdown-item>
+          </b-nav-item-dropdown>
+
+          <!-- Link to Blog - Blog.vue -->
+          <b-nav-item to="/blog">[ blog ]</b-nav-item>
+
+          <!-- Link to Developer Portal - NewDevPortal.vue -->
+          <b-nav-item to="/newdevportal">[ new developer portal ]</b-nav-item>
+
+        </b-navbar-nav>
+      </b-collapse>
+    </b-navbar>
   </div>
 </template>
 
@@ -19,7 +37,9 @@ export default {
   name: "NavBar"
 }
 </script>
-
+s
 <style scoped>
-
+#navbar-custom {
+  background-color: #FFFBFA !important;
+}
 </style>
