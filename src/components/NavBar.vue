@@ -1,7 +1,7 @@
 <template>
   <div id="navbar">
 
-    <b-navbar id="navbar-custom" sticky="true" toggleable="md">
+    <b-navbar id="navbar-custom" sticky="true" toggleable="sm">
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
@@ -37,7 +37,7 @@ export default {
   name: "NavBar"
 }
 </script>
-s
+
 <style scoped>
 #navbar-custom {
   background-color: #FFFBFA !important;
