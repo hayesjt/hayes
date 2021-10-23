@@ -5,7 +5,13 @@ import MainPage from "@/components/MainPage";
 import WorkHistory from "@/components/WorkHistory";
 import Blog from "@/components/Blog";
 import NavBar from "@/components/NavBar";
+import { BootstrapVue, NavbarPlugin, NavPlugin } from 'bootstrap-vue'
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
 
+Vue.use(BootstrapVue)
+Vue.use(NavPlugin)
+Vue.use(NavbarPlugin)
 Vue.use(VueRouter);
 
 const routes = [
