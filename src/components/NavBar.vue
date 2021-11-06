@@ -13,12 +13,16 @@
           <b-nav-item to="/">[ home ]</b-nav-item>
 
           <!-- Link Dropdown for Work History - WorkHistory.vue -->
-          <b-nav-item-dropdown text="[ work history ]" right>
+          <b-nav-item-dropdown text="[ professional history ]" right>
             <b-dropdown-item to="/workhistory">[ Full Work History ]</b-dropdown-item>
             <b-dropdown-item to="/virtualresume">[ Virtual Resume ]</b-dropdown-item>
             <b-dropdown-item to="/techvideogallery">[ Software Engineering Gallery ]</b-dropdown-item>
             <b-dropdown-item to="/archgallery">[ Architectural Gallery ]</b-dropdown-item>
           </b-nav-item-dropdown>
+
+          <!-- Link to Volunteer work - Volunteer.vue -->
+          <b-nav-item to="/volunteerwork">[ volunteer portfolio ]</b-nav-item>
+
 
           <!-- Link to Blog - Blog.vue -->
           <b-nav-item to="/blog">[ blog ]</b-nav-item>
