@@ -1,7 +1,7 @@
 <template>
   <div id="navbar">
 
-    <b-navbar id="navbar-custom" sticky="true" toggleable="sm">
+    <b-navbar id="navbar-custom" fixed="top" toggleable="sm">
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
@@ -44,6 +44,6 @@ export default {
 <style scoped>
 #navbar-custom {
   background-color: #ffff !important;
-  padding-bottom: 50px;
+  margin-bottom: 500px !important;
 }
 </style>

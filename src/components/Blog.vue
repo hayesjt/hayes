@@ -1,7 +1,7 @@
 <template>
   <div id="blog">
     <nav-bar></nav-bar>
-      <b-container>
+      <b-container class="content-container">
 
       <div class="title-block">
         <b-img src="../assets/blog-gif.gif"></b-img>

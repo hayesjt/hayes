@@ -1,6 +1,12 @@
 /* Global Styles */
+
+
 /* Styles that are being used in more than one file must be put here, otherwise style block in file will be good */
 
 .title-block {
     margin-bottom: 45px;
+}
+
+.content-container {
+    padding-top: 75px;
 }

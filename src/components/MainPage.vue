@@ -2,7 +2,7 @@
   <div id="mainpage">
     <nav-bar></nav-bar>
 
-    <b-container class="who">
+    <b-container class="content-container">
       <div class="title-block">
         <b-img src="../assets/about-gif.gif"></b-img>
         <hr />
@@ -42,9 +42,8 @@
           <p>I have not looked back since.</p>
         </b-col>
       </b-row>
-    </b-container>
+    
 
-    <b-container class="why">
       <b-row>
         <b-col cols="8">
           <b-img src="../assets/why-gif.gif"></b-img>

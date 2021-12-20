@@ -1,8 +1,8 @@
 <template>
   <div id="archgallery">
     <nav-bar></nav-bar>
-    
-<b-container>
+
+    <b-container class="content-container">
       <div class="title-block">
         <b-img src="../assets/design-gallery-gif.gif"></b-img>
         <hr />
@@ -10,7 +10,6 @@
     </b-container>
 
     <Footer></Footer>
-
   </div>
 </template>
 
@@ -19,10 +18,9 @@ import NavBar from "@/components/NavBar";
 
 export default {
   name: "ArchGallery",
-  components: {NavBar}
-}
+  components: { NavBar },
+};
 </script>
 
 <style scoped>
-
 </style>

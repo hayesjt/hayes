@@ -19,8 +19,8 @@ import { BootstrapVue, NavbarPlugin, NavPlugin, BootstrapVueIcons } from 'bootst
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
-//Style Imports
-import "./assets/styles/global-styles.css"
+//Global Style Import
+import "./assets/styles/global-styles.css";
 
 Vue.use(BootstrapVue);
 Vue.use(NavPlugin);
@@ -29,18 +29,18 @@ Vue.use(BootstrapVueIcons);
 Vue.use(VueRouter);
 
 const routes = [
-  { path: '/', component: MainPage },
-  { path: '/blog', component: Blog },
-  { path: '/workhistory', component: WorkHistory },
-  { path: '/newdevportal', component: NewDevPortal },
-  { path: '/virtualresume', component: VirtualResume },
-  { path: '/techvideogallery', component: TechVideoGallery },
-  { path: '/archgallery', component: ArchGallery },
-  { path: '/volunteerwork', component: Volunteer }
+    { path: '/', component: MainPage },
+    { path: '/blog', component: Blog },
+    { path: '/workhistory', component: WorkHistory },
+    { path: '/newdevportal', component: NewDevPortal },
+    { path: '/virtualresume', component: VirtualResume },
+    { path: '/techvideogallery', component: TechVideoGallery },
+    { path: '/archgallery', component: ArchGallery },
+    { path: '/volunteerwork', component: Volunteer }
 ];
 
 const router = new VueRouter({
-  routes: routes
+    routes: routes
 });
 
 Vue.component('main-page', MainPage);
@@ -51,6 +51,6 @@ Vue.component('blog', Blog);
 Vue.config.productionTip = false
 
 new Vue({
-  router: router,
-  render: h => h(App),
+    router: router,
+    render: h => h(App),
 }).$mount('#app')

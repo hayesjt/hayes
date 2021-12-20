@@ -2,15 +2,13 @@
   <div id="volunteer">
     <nav-bar></nav-bar>
 
-
-     <b-container class="why">
-
-       <div class="title-block">
+    <b-container class="content-container">
+      <div class="title-block">
         <b-img src="../assets/volunteer-gif.gif"></b-img>
-        <hr  />
+        <hr />
       </div>
-      
-       <b-row>
+
+      <b-row>
         <b-col cols="4">
           <b-img src="../assets/mars_and_me.png" fluid></b-img>
         </b-col>
@@ -20,9 +18,7 @@
           <h6>Roles:</h6>
         </b-col>
       </b-row>
-    </b-container>
 
-    <b-container class="why">
       <b-row>
         <b-col cols="8">
           <b-img src="../assets/rsr-gif.gif"></b-img>
@@ -30,11 +26,7 @@
           <h6>Roles:</h6>
         </b-col>
         <b-col cols="4">
-          <b-img
-            src="../assets/leo_and_me.png"
-            fluid
-            alt="Fluid image"
-          ></b-img>
+          <b-img src="../assets/leo_and_me.png" fluid alt="Fluid image"></b-img>
         </b-col>
       </b-row>
     </b-container>
@@ -65,9 +57,5 @@ hr {
 
 .why {
   margin-top: 40px;
-}
-
-.title-break {
-  padding-bottom: 40px;
 }
 </style>

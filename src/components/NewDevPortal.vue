@@ -2,7 +2,7 @@
   <div id="newdevportal">
     <nav-bar></nav-bar>
   
-      <b-container>
+      <b-container class="content-container">
 
       <div class="title-block">
         <b-img src="../assets/new-dev-gif.gif"></b-img>

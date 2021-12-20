@@ -1,8 +1,8 @@
 <template>
   <div id="workhistory">
     <nav-bar></nav-bar>
-    
-    <b-container>
+
+    <b-container class="content-container">
       <div class="title-block">
         <b-img src="../assets/work-history-gif.gif"></b-img>
         <hr />
@@ -18,10 +18,9 @@ import NavBar from "@/components/NavBar";
 
 export default {
   title: "Software Engineer",
-  components: {NavBar},
-}
+  components: { NavBar },
+};
 </script>
 
 <style scoped>
-
 </style>
