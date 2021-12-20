@@ -3,10 +3,30 @@
 
 /* Styles that are being used in more than one file must be put here, otherwise style block in file will be good */
 
+
+/* HTML elements */
+
+hr {
+    margin-bottom: 10px;
+}
+
+
+/* Class elements */
+
 .title-block {
     margin-bottom: 45px;
 }
 
+.title-space {
+    margin-top: 30px;
+}
+
+.nav-icon {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
 .content-container {
     padding-top: 75px;
+    padding-bottom: 75px;
 }

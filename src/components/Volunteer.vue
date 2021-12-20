@@ -19,7 +19,7 @@
         </b-col>
       </b-row>
 
-      <b-row>
+      <b-row class="title-space">
         <b-col cols="8">
           <b-img src="../assets/rsr-gif.gif"></b-img>
           <hr />
@@ -45,17 +45,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-.section-titles {
-  padding-bottom: 10px;
-}
-
-hr {
-  margin-bottom: 10px;
-}
-
-.why {
-  margin-top: 40px;
-}
-</style>

@@ -8,12 +8,12 @@
         <hr />
       </div>
 
-      <div class="title-block">
+      <div class="title-block title-space">
         <b-img src="../assets/most-current-gif.gif"></b-img>
         <hr />
       </div>
 
-      <div class="title-block">
+      <div class="title-block title-space">
         <b-img src="../assets/past-gif.gif"></b-img>
         <hr />
       </div>

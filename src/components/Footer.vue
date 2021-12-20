@@ -2,18 +2,17 @@
   <div id="footer">
     <b-navbar id="footer-custom" fixed="bottom" toggleable="sm">
       <b-navbar-nav class="mx-auto">
-        <b-row>
-          <b-col> Copyright @ 2022</b-col>
+        <b-nav-item href="https://www.linkedin.com/in/hayleetk/"
+          ><b-icon class="nav-icon" icon="linkedin"></b-icon
+        ></b-nav-item>
+        <b-nav-item href="https://github.com/haylee430"
+          ><b-icon href="" class="nav-icon" icon="github"></b-icon
+        ></b-nav-item>
+        <b-nav-item href="mailto:hay.design.lee@gmail.com"
+          ><b-icon href="" class="nav-icon" icon="envelope-fill"></b-icon
+        ></b-nav-item>
 
-          <b-col> <b-img src="../assets/logo.gif"></b-img> </b-col>
-
-          <b-col>
-            <div class="h2 mb-0">
-              <b-icon class="icon-left" icon="linkedin"></b-icon>
-              <b-icon class="icon-right" icon="github"></b-icon>
-            </div>
-          </b-col>
-        </b-row>
+        <b-nav-text class="nav-icon">Copyright @ 2022</b-nav-text>
       </b-navbar-nav>
     </b-navbar>
   </div>
@@ -29,11 +28,5 @@ export default {
 #footer-custom {
   background-color: #ffff !important;
   margin-top: 50px;
-}
-.icon-left {
-  margin-right: 5px;
-}
-.icon-right {
-  margin-left: 5px;
 }
 </style>

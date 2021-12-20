@@ -44,7 +44,7 @@
       </b-row>
     
 
-      <b-row>
+      <b-row class="title-space">
         <b-col cols="8">
           <b-img src="../assets/why-gif.gif"></b-img>
           <hr />
@@ -94,7 +94,3 @@ export default {
 }
 
     </script>
-
-<style scoped>
-
-</style>
