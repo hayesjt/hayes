@@ -11,17 +11,18 @@ import NewDevPortal from "@/components/NewDevPortal";
 import VirtualResume from "@/components/workhistory-components/VirtualResume";
 import TechVideoGallery from "@/components/workhistory-components/TechVideoGallery";
 import ArchGallery from "@/components/workhistory-components/ArchGallery";
-import Volunteer from "@/components/volunteer-components/Volunteer";
+import Volunteer from "@/components/Volunteer";
 
 // Bootstrap Imports
 import NavBar from "@/components/NavBar";
-import { BootstrapVue, NavbarPlugin, NavPlugin } from 'bootstrap-vue'
+import { BootstrapVue, NavbarPlugin, NavPlugin, BootstrapVueIcons } from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 Vue.use(BootstrapVue);
 Vue.use(NavPlugin);
 Vue.use(NavbarPlugin);
+Vue.use(BootstrapVueIcons);
 Vue.use(VueRouter);
 
 const routes = [

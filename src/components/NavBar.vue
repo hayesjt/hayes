@@ -8,27 +8,26 @@
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav class="mx-auto">
 
-
           <!-- Link to Home - MainPage.vue -->
           <b-nav-item to="/">[ home ]</b-nav-item>
 
           <!-- Link Dropdown for Work History - WorkHistory.vue -->
-          <b-nav-item-dropdown text="[ professional history ]" right>
-            <b-dropdown-item to="/workhistory">[ Full Work History ]</b-dropdown-item>
-            <b-dropdown-item to="/virtualresume">[ Virtual Resume ]</b-dropdown-item>
-            <b-dropdown-item to="/techvideogallery">[ Software Engineering Gallery ]</b-dropdown-item>
-            <b-dropdown-item to="/archgallery">[ Architectural Gallery ]</b-dropdown-item>
+          <b-nav-item-dropdown text="[ professional_portfolio ]" right>
+            <b-dropdown-item to="/virtualresume">[ virtual_resume ]</b-dropdown-item>
+            <b-dropdown-item to="/workhistory">[ full_work_history ]</b-dropdown-item>
+            <b-dropdown-item to="/techvideogallery">[ development_projects ]</b-dropdown-item>
+            <b-dropdown-item to="/archgallery">[ design_projects ]</b-dropdown-item>
           </b-nav-item-dropdown>
 
           <!-- Link to Volunteer work - Volunteer.vue -->
-          <b-nav-item to="/volunteerwork">[ volunteer portfolio ]</b-nav-item>
+          <b-nav-item to="/volunteerwork">[ volunteer_portfolio ]</b-nav-item>
 
 
           <!-- Link to Blog - Blog.vue -->
           <b-nav-item to="/blog">[ blog ]</b-nav-item>
 
           <!-- Link to Developer Portal - NewDevPortal.vue -->
-          <b-nav-item to="/newdevportal">[ new developer portal ]</b-nav-item>
+          <b-nav-item to="/newdevportal">[ new_developer_resources ]</b-nav-item>
 
         </b-navbar-nav>
       </b-collapse>
@@ -44,6 +43,7 @@ export default {
 
 <style scoped>
 #navbar-custom {
-  background-color: #FFFBFA !important;
+  background-color: #ffff !important;
+  padding-bottom: 50px;
 }
 </style>
