@@ -1,7 +1,16 @@
 <template>
   <div id="virtualresume">
     <nav-bar></nav-bar>
-    <p>virtual resume</p>
+    
+<b-container>
+      <div class="title-block">
+        <b-img src="../assets/virtual-resume-gif.gif"></b-img>
+        <hr />
+      </div>
+    </b-container>
+
+    <Footer></Footer>
+
   </div>
 </template>
 

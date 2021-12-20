@@ -3,7 +3,7 @@
     <nav-bar></nav-bar>
 
     <b-container class="who">
-      <div class="title-break">
+      <div class="title-block">
         <b-img src="../assets/about-gif.gif"></b-img>
         <hr />
       </div>

@@ -1,7 +1,16 @@
 <template>
   <div id="techvideogallery">
     <nav-bar></nav-bar>
-    <p>tech video gallery</p>
+    
+<b-container>
+      <div class="title-block">
+        <b-img src="../assets/dev-gallery-gif.gif"></b-img>
+        <hr />
+      </div>
+    </b-container>
+
+    <Footer></Footer>
+
   </div>
 </template>
 

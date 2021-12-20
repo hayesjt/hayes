@@ -1,7 +1,16 @@
 <template>
   <div id="archgallery">
     <nav-bar></nav-bar>
-    <p>arch gallery</p>
+    
+<b-container>
+      <div class="title-block">
+        <b-img src="../assets/design-gallery-gif.gif"></b-img>
+        <hr />
+      </div>
+    </b-container>
+
+    <Footer></Footer>
+
   </div>
 </template>
 

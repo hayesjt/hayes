@@ -28,7 +28,7 @@ export default {
 <style scoped>
 #footer-custom {
   background-color: #ffff !important;
-  padding-top: 50px;
+  margin-top: 50px;
 }
 .icon-left {
   margin-right: 5px;

@@ -19,6 +19,9 @@ import { BootstrapVue, NavbarPlugin, NavPlugin, BootstrapVueIcons } from 'bootst
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
+//Style Imports
+import "./assets/styles/global-styles.css"
+
 Vue.use(BootstrapVue);
 Vue.use(NavPlugin);
 Vue.use(NavbarPlugin);

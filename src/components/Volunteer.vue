@@ -5,7 +5,7 @@
 
      <b-container class="why">
 
-       <div class="title-break">
+       <div class="title-block">
         <b-img src="../assets/volunteer-gif.gif"></b-img>
         <hr  />
       </div>

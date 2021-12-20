@@ -1,8 +1,15 @@
 <template>
   <div id="workhistory">
     <nav-bar></nav-bar>
-    <h2>The Work History Page</h2>
-    <p>my job title is {{ title }}</p>
+    
+    <b-container>
+      <div class="title-block">
+        <b-img src="../assets/work-history-gif.gif"></b-img>
+        <hr />
+      </div>
+    </b-container>
+
+    <Footer></Footer>
   </div>
 </template>
 
