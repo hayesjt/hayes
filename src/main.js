@@ -8,9 +8,9 @@ import MainPage from "@/components/MainPage";
 import WorkHistory from "@/components/WorkHistory";
 import Blog from "@/components/Blog";
 import NewDevPortal from "@/components/NewDevPortal";
-import VirtualResume from "@/components/workhistory-components/VirtualResume";
-import TechVideoGallery from "@/components/workhistory-components/TechVideoGallery";
-import ArchGallery from "@/components/workhistory-components/ArchGallery";
+import VirtualResume from "@/components/VirtualResume";
+import TechVideoGallery from "@/components/TechVideoGallery";
+import ArchGallery from "@/components/ArchGallery";
 import Volunteer from "@/components/Volunteer";
 
 // Bootstrap Imports
