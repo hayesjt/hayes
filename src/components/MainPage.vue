@@ -42,29 +42,32 @@
           <p>I have not looked back since.</p>
         </b-col>
       </b-row>
-    
 
       <b-row class="title-space">
         <b-col cols="8">
           <b-img src="../assets/why-gif.gif"></b-img>
           <hr />
+          <p>This digital space is for...</p>
           <p>
-            I decided to design this digital space to showcase a few things:
+            <b-icon class="nav-icon" icon="people-fill"></b-icon>
+            Connecting with new and seasoned developers
           </p>
           <p>
-            1. Many new developers reach out to me intrested in making a career
-            shift with a bootcamp certificate or attending the programs I did.
-            During that time we usually become connected - where I share my
-            journey, some tips, some concepts, and sometimes become a mentor. I
-            wanted content that could reach more people and to support those
-            going through the same journy I did.
+            <b-icon class="nav-icon" icon="share-fill"></b-icon>
+            Sharing resources
           </p>
           <p>
-            2. To showcase my skills, personality, and dedication to the support
-            of new developers.
+            <b-icon class="nav-icon" icon="briefcase-fill"></b-icon>
+            Showcasing my skills, personality, and dedication to the support of
+            new developers
           </p>
           <p>
-            3. To have fun, express myself, and learn something new [ Vue.js ].
+            <b-icon class="nav-icon" icon="keyboard-fill"></b-icon>
+            Blog about all things that are related to being a software engineer
+          </p>
+          <p>
+            <b-icon class="nav-icon" icon="joystick"></b-icon>
+            To have fun, express myself, and learn something new
           </p>
         </b-col>
         <b-col cols="4">
@@ -89,8 +92,7 @@ export default {
   name: "MainPage",
   components: {
     NavBar,
-    Footer
-  }
-}
-
-    </script>
+    Footer,
+  },
+};
+</script>

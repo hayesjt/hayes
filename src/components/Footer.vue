@@ -6,10 +6,10 @@
           ><b-icon class="nav-icon" icon="linkedin"></b-icon
         ></b-nav-item>
         <b-nav-item href="https://github.com/haylee430"
-          ><b-icon href="" class="nav-icon" icon="github"></b-icon
+          ><b-icon class="nav-icon" icon="github"></b-icon
         ></b-nav-item>
         <b-nav-item href="mailto:hay.design.lee@gmail.com"
-          ><b-icon href="" class="nav-icon" icon="envelope-fill"></b-icon
+          ><b-icon class="nav-icon" icon="envelope-fill"></b-icon
         ></b-nav-item>
 
         <b-nav-text class="nav-icon">Copyright @ 2022</b-nav-text>
