@@ -1,11 +1,11 @@
-# site_haylee
+# Site Haylee (Portfolio and New Developer Resources)
 ##### By: Haylee Thomas-Kuhlmann 
 
 ## Table of Contents  
-[Project Description](#project-description)  
-[Project Architecture](#project-architecture)
-[Design Notes](#design-notes) 
-[Project setup](#project-setup) 
+- [Project Description](#project-description)  
+- [Project Architecture](#project-architecture)
+- [Design Notes](#design-notes) 
+- [Project setup](#project-setup) 
 
 ## Project Description:
 
