@@ -62,10 +62,6 @@
             new developers
           </p>
           <p>
-            <b-icon class="nav-icon" icon="keyboard-fill"></b-icon>
-            Blog about all things that are related to being a software engineer
-          </p>
-          <p>
             <b-icon class="nav-icon" icon="joystick"></b-icon>
             To have fun, express myself, and learn something new
           </p>

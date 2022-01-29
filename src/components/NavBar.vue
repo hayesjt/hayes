@@ -22,10 +22,6 @@
           <!-- Link to Volunteer work - Volunteer.vue -->
           <b-nav-item to="/volunteerwork">[ volunteer ]</b-nav-item>
 
-
-          <!-- Link to Blog - Blog.vue -->
-          <b-nav-item to="/blog">[ blog ]</b-nav-item>
-
           <!-- Link to Developer Portal - NewDevPortal.vue -->
           <b-nav-item to="/newdevportal">[ new_dev_resources ]</b-nav-item>
 
