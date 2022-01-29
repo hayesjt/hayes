@@ -21,6 +21,11 @@ hr {
     margin-top: 50px;
 }
 
+.large-title-space {
+    margin-top: 75px;
+    margin-bottom: 25px;
+}
+
 .nav-icon {
     margin-left: 5px;
     margin-right: 5px;
@@ -29,4 +34,12 @@ hr {
 .content-container {
     padding-top: 75px;
     padding-bottom: 75px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.bottom-space-needed {
+    margin-bottom: 25px;
 }

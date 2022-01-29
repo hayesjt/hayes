@@ -8,7 +8,7 @@
         <hr />
       </div>
 
-      <b-row>
+      <b-row class="title-space">
         <b-col cols="4">
           <b-img src="../assets/headshot_bw.png" fluid></b-img>
         </b-col>
