@@ -14,9 +14,7 @@
           <!-- Link Dropdown for Work History - WorkHistory.vue -->
           <b-nav-item-dropdown text="[ professional ]" right>
             <b-dropdown-item to="/virtualresume">[ virtual_resume ]</b-dropdown-item>
-            <b-dropdown-item to="/workhistory">[ full_work_history ]</b-dropdown-item>
             <b-dropdown-item to="/techvideogallery">[ development_gallery ]</b-dropdown-item>
-            <b-dropdown-item to="/archgallery">[ design_gallery ]</b-dropdown-item>
           </b-nav-item-dropdown>
 
           <!-- Link to Volunteer work - Volunteer.vue -->

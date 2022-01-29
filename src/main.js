@@ -5,11 +5,9 @@ import VueRouter from "vue-router";
 // Component Imports
 import App from './App.vue';
 import MainPage from "@/components/MainPage";
-import WorkHistory from "@/components/WorkHistory";
 import NewDevPortal from "@/components/NewDevPortal";
 import VirtualResume from "@/components/VirtualResume";
 import TechVideoGallery from "@/components/TechVideoGallery";
-import ArchGallery from "@/components/ArchGallery";
 import Volunteer from "@/components/Volunteer";
 
 // Bootstrap Imports
@@ -29,11 +27,9 @@ Vue.use(VueRouter);
 
 const routes = [
     { path: '/', component: MainPage },
-    { path: '/workhistory', component: WorkHistory },
     { path: '/newdevportal', component: NewDevPortal },
     { path: '/virtualresume', component: VirtualResume },
     { path: '/techvideogallery', component: TechVideoGallery },
-    { path: '/archgallery', component: ArchGallery },
     { path: '/volunteerwork', component: Volunteer }
 ];
 
@@ -43,7 +39,6 @@ const router = new VueRouter({
 
 Vue.component('main-page', MainPage);
 Vue.component('navbar', NavBar);
-Vue.component('workhistory', WorkHistory);
 
 Vue.config.productionTip = false
 

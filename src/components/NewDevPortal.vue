@@ -9,12 +9,6 @@
         <hr />
       </div>
 
-      <div class="title-block title-space">
-        <b-img src="../assets/knowledge-gif.gif"></b-img>
-        <hr />
-      </div>
-
-
     </b-container>
 
     <Footer></Footer>

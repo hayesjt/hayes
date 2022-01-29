@@ -85,11 +85,11 @@
         </b-col>
       </b-row>
 
-      <b-row>
+      <b-row class="title-space">
         <b-col cols="12">
           <b-img src="../assets/volunteer-work-gif.gif"></b-img>
           <hr />
-          <b-row>
+          <b-row class="title-space">
             <b-col cols="4">
               <b-img
                 src="../assets/rsr-pride-shirt.png"
