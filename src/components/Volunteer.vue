@@ -15,18 +15,9 @@
         <b-col cols="8">
           <b-img src="../assets/mars-gif.gif"></b-img>
           <hr />
-          <p>
-            <b-icon class="nav-icon" icon="github"></b-icon>
-            Foster Parent
-          </p>
-          <p>
-            <b-icon class="nav-icon" icon="truck"></b-icon>
-            Intake Volunteer
-          </p>
-          <p>
-            <b-icon class="nav-icon" icon="suit-heart-fill"></b-icon>
-            Giving Love
-          </p>
+          <list-item icon="github" listtext="Foster Parent" />
+          <list-item icon="truck" listtext="Intake Volunteer" />
+          <list-item icon="suit-heart-fill" listtext="Giving Love" />
           <p>
             MARS is the first rescure I have volunteered for and the place I got
             my first pup Leo!
@@ -46,22 +37,10 @@
         <b-col cols="8">
           <b-img src="../assets/rsr-gif.gif"></b-img>
           <hr />
-          <p>
-            <b-icon class="nav-icon" icon="easel-fill"></b-icon>
-            Graphic Designer
-          </p>
-          <p>
-            <b-icon class="nav-icon" icon="instagram"></b-icon>
-            Social Media Specilist
-          </p>
-          <p>
-            <b-icon class="nav-icon" icon="display"></b-icon>
-            Software Engineer
-          </p>
-          <p>
-            <b-icon class="nav-icon" icon="suit-heart-fill"></b-icon>
-            Giving Love
-          </p>
+          <list-item icon="easel-fill" listtext="Graphic Designer" />
+          <list-item icon="instagram" listtext="Social Media Specilist" />
+          <list-item icon="display" listtext="Software Engineer" />
+          <list-item icon="suit-heart-fill" listtext="Giving Love" />
           <p>
             I got really intrested in Ruff Start Rescue when I saw they were
             hiring volunteers to do business like tasks so I signed up for as
@@ -122,11 +101,13 @@
 <script>
 import NavBar from "@/components/NavBar";
 import Footer from "@/components/Footer";
+import ListItem from "@/components/universal-components/ListItem"
 
 export default {
   components: {
     NavBar,
     Footer,
+    ListItem
   },
 };
 </script>
