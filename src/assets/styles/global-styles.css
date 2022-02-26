@@ -43,3 +43,13 @@ hr {
 .bottom-space-needed {
     margin-bottom: 25px;
 }
+
+.button-space {
+    margin-right: 10px;
+}
+
+.yellow {
+    color: black;
+    background-color: #fdd31a;
+    border-color: black;
+}

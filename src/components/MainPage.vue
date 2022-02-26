@@ -16,7 +16,7 @@
                 <b-img src="../assets/who-gif.gif"></b-img>
                 <hr />
                 <p>
-                    Hello There! Welcome to my page. My name is Haylee Thomas-Kuhlmann [
+                    Hello There! Welcome to my personal site. My name is Haylee Thomas-Kuhlmann [
                     they/them/theirs ].
                 </p>
                 <p>
@@ -47,7 +47,7 @@
             <b-col cols="8">
                 <b-img src="../assets/why-gif.gif"></b-img>
                 <hr />
-                <p>This digital space is for...</p>
+                <p>I designed this digital space in hopes of:</p>
                 <list-item icon="people-fill" listtext="Connecting with new and seasoned developers" />
                 <list-item icon="share-fill" listtext="Sharing resources" />
                 <list-item icon="briefcase-fill" listtext="Showcasing my skills, personality, and dedication to the support of
