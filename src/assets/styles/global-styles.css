@@ -53,3 +53,7 @@ hr {
     background-color: #fdd31a;
     border-color: black;
 }
+
+.image-padding {
+    padding: 20px;
+}

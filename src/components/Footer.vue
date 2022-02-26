@@ -1,6 +1,5 @@
 <template>
-  <div id="footer">
-    <b-navbar id="footer-custom" fixed="bottom" toggleable="sm">
+    <b-navbar justified  id="footer-custom" fixed="bottom" toggleable="sm">
       <b-navbar-nav class="mx-auto">
         <b-nav-item href="https://www.linkedin.com/in/hayleetk/"
           ><b-icon class="nav-icon" icon="linkedin"></b-icon
@@ -15,7 +14,6 @@
         <b-nav-text class="nav-icon">Copyright @ 2022</b-nav-text>
       </b-navbar-nav>
     </b-navbar>
-  </div>
 </template>
 
 <script>

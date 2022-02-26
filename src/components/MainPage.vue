@@ -9,10 +9,10 @@
         </div>
 
         <b-row class="title-space">
-            <b-col cols="4">
-                <b-img src="../assets/headshot_bw.png" fluid></b-img>
+            <b-col lg="4" sm="12">
+                <b-img class="bottom-space-needed" src="../assets/headshot_bw.png" fluid></b-img>
             </b-col>
-            <b-col cols="8">
+            <b-col lg="8" sm="12">
                 <b-img src="../assets/who-gif.gif"></b-img>
                 <hr />
                 <p>
@@ -44,8 +44,8 @@
         </b-row>
 
         <b-row class="title-space">
-            <b-col cols="8">
-                <b-img src="../assets/why-gif.gif"></b-img>
+            <b-col lg="8" sm="12">
+                <b-img class="bottom-space-needed" src="../assets/why-gif.gif"></b-img>
                 <hr />
                 <p>I designed this digital space in hopes of:</p>
                 <list-item icon="people-fill" listtext="Connecting with new and seasoned developers" />
@@ -54,7 +54,7 @@
                     new developers" />
                 <list-item icon="joystick" listtext="To have fun, express myself, and learn something new" />
             </b-col>
-            <b-col cols="4">
+            <b-col lg="4" sm="12">
                 <b-img src="../assets/headshot_2_bw.png" fluid alt="Fluid image"></b-img>
             </b-col>
         </b-row>
