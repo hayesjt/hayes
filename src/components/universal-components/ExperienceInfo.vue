@@ -1,14 +1,12 @@
 <template>
 <b-container>
 
-    <b-row class="top-space-needed">
+    <b-row class="top-space-needed border-needed">
         <b-col>
-       
             <p><em>{{ time }}</em></p>
             <p>{{ summary }}</p>
         </b-col>
         <b-col>
-           
             <list-item :icon='icon1' :listtext='listitem1' />
             <list-item :icon='icon2' :listtext='listitem2' />
             <list-item :icon='icon3' :listtext='listitem3' />

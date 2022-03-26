@@ -65,3 +65,16 @@ hr {
 .image-padding {
     padding: 20px;
 }
+
+.border-needed {
+    padding: 20px;
+    border: solid;
+    border-width: 1px;
+    border-radius: 25px;
+    border-color: lightgray;
+}
+
+.link-format {
+    color: #fdd31a !important;
+    text-decoration: none !important;
+}

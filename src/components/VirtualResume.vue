@@ -48,24 +48,30 @@
                 <b-img class="title-space" src="../assets/virtual_resume_pics/tech_skills.gif"></b-img>
                 <hr />
                 <list-item icon="gear-fill" listtext="Test Driven Development (Kotlin, Groovy, Spock, Python, JavaScript)" />
-                <list-item icon="gear-fill" listtext="REST API's" />
-                <list-item icon="gear-fill" listtext="Observibility, Metrics, & Alerting" />
-                <list-item icon="gear-fill" listtext="Application Scaling (Kubernetes)" />
-                <list-item icon="gear-fill" listtext="Version Control (Git)" />
-                <list-item icon="gear-fill" listtext="Continuous Integration and Development" />
-                <list-item icon="gear-fill" listtext="Security Compliance Experience (PCI & PII)" />
-                <list-item icon="gear-fill" listtext="DevOps Practices" />
-                <list-item icon="gear-fill" listtext="Dynamic Web Page Design" />
-                <list-item icon="gear-fill" listtext="Debugging" />
-                <list-item icon="gear-fill" listtext="Experience with Front End Lauguages & Frameworks (HTML, CSS, JavaScript, TypeScript, JSX, React, Vue)" />
-                <list-item icon="gear-fill" listtext="Experience with Backend Lauguages & frameworks (Kotlin, Grovy, Ratpack, Spring Boot, NodeJS, Micronaut)" />
-                <list-item icon="gear-fill" listtext="Experience with Databases (SQL, Radius)" />
-                <list-item icon="gear-fill" listtext="Experience with Content Delivery Networks (Fastly)" />
-                <list-item icon="gear-fill" listtext="Agile Software Development (Sprints, Product Ownership, etc.)" />
+                <list-item icon="cloud-fill" listtext="REST API's" />
+                <list-item icon="bar-chart-fill" listtext="Observibility, Metrics, & Alerting" />
+                <list-item icon="server" listtext="Application Scaling (Kubernetes)" />
+                <list-item icon="github" listtext="Version Control (Git)" />
+                <list-item icon="github" listtext="Continuous Integration and Development" />
+                <list-item icon="shield-lock-fill" listtext="Security Compliance Experience (PCI & PII)" />
+                <list-item icon="tools" listtext="DevOps Practices" />
+                <list-item icon="display" listtext="Dynamic Web Page Design" />
+                <list-item icon="bug-fill" listtext="Debugging" />
+                <list-item icon="display" listtext="Experience with Front End Lauguages & Frameworks (HTML, CSS, JavaScript, TypeScript, JSX, React, Vue)" />
+                <list-item icon="back" listtext="Experience with Backend Lauguages & frameworks (Kotlin, Grovy, Ratpack, Spring Boot, NodeJS, Micronaut)" />
+                <list-item icon="clipboard-data" listtext="Experience with Databases (SQL, Radius)" />
+                <list-item icon="diagram3-fill" listtext="Experience with Content Delivery Networks (Fastly)" />
+                <list-item icon="people-fill" listtext="Agile Software Development (Sprints, Product Ownership, etc.)" />
 
                 <b-img class="title-space" src="../assets/virtual_resume_pics/projects.gif"></b-img>
                 <hr />
-                <p>Checkout all my projects here.</p>
+                <p>Checkout all my projects <router-link class="link-format" to="/techvideogallery">here</router-link>.</p>
+
+                <b-img class="title-space" src="../assets/virtual_resume_pics/courses.gif"></b-img>
+                <hr />
+                <course-list coursetitle="Software Engineering 101: Use Software Engineering to Plan and Build Amazing" courselink="https://www.udemy.com/share/101BHy3@u2ztB1846i3rvyVmVAtN2uR8LLgwMkXwlbc44-X3mqmjMzvK6qVbK-VhZFDrirR9/"></course-list>
+                <course-list coursetitle="Computer Science 101: Learn Computer Science to become a better Programmer and Software Engineer." courselink="https://www.udemy.com/share/101Y3O3@MUKyc_DZAixiNkDGiVRxAAjoOG54T5tHEYi1BYp8AMZsw9Zo_YOi02QxZGN8t71q/"></course-list>
+
             </b-col>
             <b-col lg="8" sm="12">
                 <b-img src="../assets/virtual_resume_pics/experience.gif"></b-img>
@@ -87,7 +93,7 @@
 
         <b-row class="title-space">
             <b-col cols="4">
-                
+
             </b-col>
             <b-col cols="8">
                 <b-img src="../assets/virtual_resume_pics/education.gif"></b-img>
@@ -99,7 +105,7 @@
                 <experience-title icon="pencil-fill" title="Bacholres of Design in Architecture | University of Minnesota | Minneapolis, MN" />
                 <experience-info time="2018" summary="Since I was a small child, I loved architecture and design. The way a space can make someone feel became a passion of mine and I often dreamed of working for a custom builder where bookcase trap doors and spiral staircases were possible.  I decided to go to school for architecture directly out of high school." icon1="briefcase-fill" listitem1="Architecture" icon2="briefcase-fill" listitem2="Design Concepts" icon3="briefcase-fill" listitem3="Hand Drafting" icon4="briefcase-fill" listitem4="3D Modeling Software" />
                 <experience-title icon="pencil-fill" title="Associates | Anoka Ramsey Community College | Coon Rapids, MN" />
-                <experience-info time="2015" summary="This was completed during my Junior and Senior year of highschool." icon1="briefcase-fill" listitem1="Post Secondary Education" icon2="briefcase-fill" listitem2="General Education"/>
+                <experience-info time="2015" summary="This was completed during my Junior and Senior year of highschool." icon1="briefcase-fill" listitem1="Post Secondary Education" icon2="briefcase-fill" listitem2="General Education" />
             </b-col>
         </b-row>
     </b-container>
@@ -114,6 +120,7 @@ import ListItem from '@/components/universal-components/ListItem.vue';
 import ExperienceTitle from '@/components/universal-components/ExperienceTitle.vue';
 import ExperienceInfo from '@/components/universal-components/ExperienceInfo.vue';
 import Footer from '@/components/Footer';
+import CourseList from './resume-components/CourseList.vue';
 
 export default {
     name: "VirtualResume",
@@ -122,7 +129,8 @@ export default {
         ListItem,
         ExperienceTitle,
         Footer,
-        ExperienceInfo
+        ExperienceInfo,
+        CourseList
     },
 };
 </script>
