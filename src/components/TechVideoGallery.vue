@@ -26,12 +26,14 @@
 <script>
 import NavBar from "@/components/NavBar";
 import ProjectTiles from './resume-components/ProjectTiles.vue';
+import Footer from "@/components/Footer";
 
 export default {
     name: "TechVideoGallery",
     components: {
         NavBar,
-        ProjectTiles
+        ProjectTiles,
+        Footer
     },
 };
 </script>

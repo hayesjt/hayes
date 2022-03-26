@@ -44,6 +44,14 @@ hr {
     margin-bottom: 25px;
 }
 
+.small-bottom-space-needed {
+    margin-bottom: 10px;
+}
+
+.top-space-needed {
+    margin-top: 25px;
+}
+
 .button-space {
     margin-right: 10px;
 }

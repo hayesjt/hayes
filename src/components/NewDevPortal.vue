@@ -9,12 +9,12 @@
             <hr />
         </div>
 
-        <dev-resource-card header="Testing" title="Test Driven Developmnent" cardtext="About" footer="something"/>
-        <dev-resource-card header="Web Development" title="Single Page Applications" cardtext="About" footer="something"/>
-        <dev-resource-card header="CIDI" title="Automated Pipelines" cardtext="About" footer="something"/>
-        <dev-resource-card header="Observability" title="Metrics" cardtext="About" footer="something"/>
-        <dev-resource-card header="Version Control" title="Git Hub" cardtext="About" footer="something"/>
-        <dev-resource-card header="Best Practices" title="Coding Best Practices" cardtext="About" footer="something"/>
+        <dev-resource-card header="Testing" title="Test Driven Developmnent" cardtext="About" footer="something" />
+        <dev-resource-card header="Web Development" title="Single Page Applications" cardtext="About" footer="something" />
+        <dev-resource-card header="CIDI" title="Automated Pipelines" cardtext="About" footer="something" />
+        <dev-resource-card header="Observability" title="Metrics" cardtext="About" footer="something" />
+        <dev-resource-card header="Version Control" title="Git Hub" cardtext="About" footer="something" />
+        <dev-resource-card header="Best Practices" title="Coding Best Practices" cardtext="About" footer="something" />
 
     </b-container>
 

@@ -1,5 +1,5 @@
 <template>
-    <b-navbar justified  id="footer-custom" fixed="bottom" toggleable="sm">
+    <b-navbar id="footer-custom" fixed="bottom" toggleable="sm">
       <b-navbar-nav class="mx-auto">
         <b-nav-item href="https://www.linkedin.com/in/hayleetk/"
           ><b-icon class="nav-icon" icon="linkedin"></b-icon

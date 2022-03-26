@@ -1,6 +1,6 @@
 <template>
 <h5>
-    <b-icon class="nav-icon" :icon=icon></b-icon>
+    <b-icon class="nav-icon title-space" :icon=icon></b-icon>
     {{ title }}
 </h5>
 </template>
