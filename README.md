@@ -19,6 +19,7 @@ Technology Used:
 - Canva.com (Graphics)
 - whimsical.com (Diagram)
 
+URL: https://sitehaylee.netlify.app/#/virtualresume
 
 ## Project Architecture:
 
