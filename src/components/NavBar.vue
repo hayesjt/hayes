@@ -8,20 +8,10 @@
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav class="mx-auto">
 
-          <!-- Link to Home - MainPage.vue -->
-          <b-nav-item to="/">[ home ]</b-nav-item>
-
-          <!-- Link Dropdown for Work History - WorkHistory.vue -->
-          <b-nav-item-dropdown text="[ professional ]" right>
-            <b-dropdown-item to="/virtualresume">[ virtual_resume ]</b-dropdown-item>
-            <b-dropdown-item to="/techvideogallery">[ development_gallery ]</b-dropdown-item>
-          </b-nav-item-dropdown>
-
-          <!-- Link to Volunteer work - Volunteer.vue -->
-          <b-nav-item to="/volunteerwork">[ volunteer ]</b-nav-item>
-
-          <!-- Link to Developer Portal - NewDevPortal.vue -->
-          <b-nav-item to="/newdevportal">[ new_dev_resources ]</b-nav-item>
+          <b-nav-item to="/">HOME</b-nav-item>
+          <b-nav-item to="/resume">RESUME</b-nav-item>
+          <b-nav-item to="devprojects">DEVELOPMENT WORK</b-nav-item>
+          <b-nav-item to="/volunteer">VOLUNTEER WORK</b-nav-item>
 
         </b-navbar-nav>
       </b-collapse>

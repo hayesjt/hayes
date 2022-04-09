@@ -5,7 +5,6 @@ import VueRouter from "vue-router";
 // Component Imports
 import App from './App.vue';
 import MainPage from "@/components/MainPage";
-import NewDevPortal from "@/components/NewDevPortal";
 import VirtualResume from "@/components/VirtualResume";
 import TechVideoGallery from "@/components/TechVideoGallery";
 import Volunteer from "@/components/Volunteer";
@@ -27,10 +26,9 @@ Vue.use(VueRouter);
 
 const routes = [
     { path: '/', component: MainPage },
-    { path: '/newdevportal', component: NewDevPortal },
-    { path: '/virtualresume', component: VirtualResume },
-    { path: '/techvideogallery', component: TechVideoGallery },
-    { path: '/volunteerwork', component: Volunteer }
+    { path: '/resume', component: VirtualResume },
+    { path: '/devprojects', component: TechVideoGallery },
+    { path: '/volunteer', component: Volunteer }
 ];
 
 const router = new VueRouter({

@@ -4,6 +4,8 @@
 
     <b-container class="content-container">
 
+        <b-img src="../assets/headers/resume_header.png" fluid-grow></b-img>
+
         <b-row class="large-title-space">
             <b-col cols="4">
                 <b-img src="../assets/virtual_resume_pics/resume_headshot.gif" fluid></b-img>

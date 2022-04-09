@@ -1,17 +1,38 @@
-/* Global Styles */
-
-
-/* Styles that are being used in more than one file must be put here, otherwise style block in file will be good */
-
-
 /* HTML elements */
 
 hr {
     margin-bottom: 10px;
 }
 
+h1 {
+    font-family: 'Lato', sans-serif;
+}
 
-/* Class elements */
+h3 {
+    font-family: 'Lato', sans-serif;
+}
+
+h5 {
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-size: medium;
+}
+
+
+/* Bootstrap Class and ID elements */
+
+.nav-item.nav-item.nav-item a {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    color: black;
+}
+
+
+/* Custom Class elements */
 
 .title-block {
     margin-bottom: 60px;
@@ -29,6 +50,11 @@ hr {
 .nav-icon {
     margin-left: 5px;
     margin-right: 5px;
+}
+
+.nav-links {
+    font-family: 'Lato', sans-serif;
+    font-size: medium;
 }
 
 .content-container {
@@ -77,4 +103,13 @@ hr {
 .link-format {
     color: #fdd31a !important;
     text-decoration: none !important;
+}
+
+.center {
+    margin: auto;
+}
+
+.outline #footer-custom {
+    background-color: #ffff !important;
+    margin-top: 50px;
 }

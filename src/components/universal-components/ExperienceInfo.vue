@@ -20,7 +20,7 @@
 import ListItem from '@/components/universal-components/ListItem.vue';
 
 export default {
-    name: "ExperienceTitle",
+    name: "ExperienceInfo",
     components: {
         ListItem,
     }, 

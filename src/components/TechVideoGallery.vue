@@ -3,10 +3,9 @@
     <nav-bar></nav-bar>
 
     <b-container class="content-container">
-        <div class="title-block">
-            <b-img src="../assets/dev-gallery-gif.gif"></b-img>
-            <hr />
-        </div>
+
+        <b-img src="../assets/headers/dev_project_header.png" fluid-grow></b-img>
+
 
         <b-row class="title-space">
             <b-col cols="6">
