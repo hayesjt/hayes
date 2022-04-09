@@ -1,7 +1,7 @@
 <template>
 <div class="top-space-needed border-needed">
     <p>{{ coursetitle }}</p>
-    <b-link class="link-format" target="_blank" :href='courselink'>Take it yourself</b-link>
+    <b-button pill class="button-format" :href='courselink'>Take it yourself</b-button>
 </div>
 </template>
 

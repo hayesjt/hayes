@@ -51,5 +51,3 @@ npm run build
 ```
 npm run lint
 ```
-
-testing testing

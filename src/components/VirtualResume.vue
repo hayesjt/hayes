@@ -6,21 +6,22 @@
 
         <b-img src="../assets/headers/resume_header.png" fluid-grow></b-img>
 
+<div class="border-needed">
         <b-row class="large-title-space">
-            <b-col cols="4">
-                <b-img src="../assets/virtual_resume_pics/resume_headshot.gif" fluid></b-img>
+            <b-col lg="4" sm="12" class="text-center">
+                <b-img src="../assets/headshots/resume_headshot.png" fluid></b-img>
             </b-col>
-            <b-col cols="8">
+            <b-col lg="8" sm="12">
                 <b-row>
-                    <b-col cols="12">
-                        <b-img center src="../assets/virtual_resume_pics/haylee_name.gif"></b-img>
+                    <b-col cols="12" class="center-text">
+                        <h3>HAYLEE THOMAS-KUHLMANN</h3>
                     </b-col>
                     <b-col cols="12">
                         <h5 class="center-text bottom-space-needed">
                             Maple Grove, MN | hay.design.lee@gmail | Linkedin | Github
                         </h5>
 
-                        <b-img class="large-title-space" src="../assets/virtual_resume_pics/objective.gif"></b-img>
+                        <h3 class="large-title-space">OBJECTIVE</h3>
                         <hr />
                         <p>
                             Creative and efficacious young professional who thrives in a fast
@@ -38,7 +39,7 @@
 
         <b-row class="title-space">
             <b-col lg="4" sm="12">
-                <b-img src="../assets/virtual_resume_pics/core_skills.gif"></b-img>
+                <h3>CORE SKILLS</h3>
                 <hr />
                 <list-item icon="people-fill" listtext="Leadership & Mentorship" />
                 <list-item icon="chat-left-dots-fill" listtext="Communication" />
@@ -47,7 +48,7 @@
                 <list-item icon="eyeglasses" listtext="Detail-oriented" />
                 <list-item icon="pencil-fill" listtext="Continuous Learning" />
 
-                <b-img class="title-space" src="../assets/virtual_resume_pics/tech_skills.gif"></b-img>
+                <h3 class="title-space">TECHNICAL SKILLS</h3>
                 <hr />
                 <list-item icon="gear-fill" listtext="Test Driven Development (Kotlin, Groovy, Spock, Python, JavaScript)" />
                 <list-item icon="cloud-fill" listtext="REST API's" />
@@ -65,18 +66,19 @@
                 <list-item icon="diagram3-fill" listtext="Experience with Content Delivery Networks (Fastly)" />
                 <list-item icon="people-fill" listtext="Agile Software Development (Sprints, Product Ownership, etc.)" />
 
-                <b-img class="title-space" src="../assets/virtual_resume_pics/projects.gif"></b-img>
+                <h3 class="title-space">PROJECTS</h3>
                 <hr />
-                <p>Checkout all my projects <router-link class="link-format" to="/techvideogallery">here</router-link>.</p>
+                <p>Checkout my development project page!</p>
+                <b-button pill to="/devprojects" class="button-format">Take me to your dev work!</b-button>
 
-                <b-img class="title-space" src="../assets/virtual_resume_pics/courses.gif"></b-img>
+                <h3 class="title-space">COURSES</h3>
                 <hr />
                 <course-list coursetitle="Software Engineering 101: Use Software Engineering to Plan and Build Amazing" courselink="https://www.udemy.com/share/101BHy3@u2ztB1846i3rvyVmVAtN2uR8LLgwMkXwlbc44-X3mqmjMzvK6qVbK-VhZFDrirR9/"></course-list>
-                <course-list coursetitle="Computer Science 101: Learn Computer Science to become a better Programmer and Software Engineer." courselink="https://www.udemy.com/share/101Y3O3@MUKyc_DZAixiNkDGiVRxAAjoOG54T5tHEYi1BYp8AMZsw9Zo_YOi02QxZGN8t71q/"></course-list>
+                <course-list class="large-bottom-space" coursetitle="Computer Science 101: Learn Computer Science to become a better Programmer and Software Engineer." courselink="https://www.udemy.com/share/101Y3O3@MUKyc_DZAixiNkDGiVRxAAjoOG54T5tHEYi1BYp8AMZsw9Zo_YOi02QxZGN8t71q/"></course-list>
 
             </b-col>
             <b-col lg="8" sm="12">
-                <b-img src="../assets/virtual_resume_pics/experience.gif"></b-img>
+                <h3 >CAREER HISTORY</h3>
                 <hr />
                 <experience-title icon="briefcase-fill" title="Target | Engineer | Brooklyn Park, MN" />
                 <experience-info time="Jan 2022 - Present" summary="Active Software Engineer on the Digital Checkout team. Working on high level Cart, Checkout, and Payment functionality and features that drive a better guest experience and business growth across Targets digital platform." icon1="cloud-fill" listitem1="REST API's" icon2="gear-fill" listitem2="Backend Functionality and Testing" icon3="bar-chart-fill" listitem3="Operational On-call Support" icon4="basket2-fill" listitem4="Cart, Checkout, and Payments Processes" />
@@ -94,11 +96,10 @@
         </b-row>
 
         <b-row class="title-space">
-            <b-col cols="4">
-
+            <b-col lg="4" sm="12">
             </b-col>
-            <b-col cols="8">
-                <b-img src="../assets/virtual_resume_pics/education.gif"></b-img>
+            <b-col lg="8" sm="12">
+                <h3 class="title-space">EDUCATION</h3>
                 <hr />
                 <experience-title icon="pencil-fill" title="Full Stack Development Certification | Hackbright Academy | San Francisco, CA" />
                 <experience-info time="2021" summary="This bootcamp was offered to me via Scholarship through Targets Early Tech Talent program. It was a chance to learn full stack development and then apply those skills/interview for Targets Emerging Engineer Program. " icon1="briefcase-fill" listitem1="Full Stack Development" icon2="briefcase-fill" listitem2="Computer Science Fundamentals" icon3="briefcase-fill" listitem3="Software Engineering Fundamentals" icon4="briefcase-fill" listitem4="Tech Interview Prep" />
@@ -110,6 +111,9 @@
                 <experience-info time="2015" summary="This was completed during my Junior and Senior year of highschool." icon1="briefcase-fill" listitem1="Post Secondary Education" icon2="briefcase-fill" listitem2="General Education" />
             </b-col>
         </b-row>
+        </div>
+
+        <contact-section></contact-section>
     </b-container>
 
     <Footer></Footer>
@@ -123,6 +127,7 @@ import ExperienceTitle from '@/components/universal-components/ExperienceTitle.v
 import ExperienceInfo from '@/components/universal-components/ExperienceInfo.vue';
 import Footer from '@/components/Footer';
 import CourseList from './resume-components/CourseList.vue';
+import ContactSection from './universal-components/ContactSection.vue';
 
 export default {
     name: "VirtualResume",
@@ -132,7 +137,8 @@ export default {
         ExperienceTitle,
         Footer,
         ExperienceInfo,
-        CourseList
+        CourseList,
+        ContactSection,
     },
 };
 </script>

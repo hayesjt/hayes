@@ -82,6 +82,10 @@ p {
     margin-right: 10px;
 }
 
+.large-bottom-space {
+    margin-bottom: 50px;
+}
+
 .yellow {
     color: black;
     background-color: #fdd31a;
@@ -101,8 +105,13 @@ p {
 }
 
 .link-format {
-    color: #fdd31a !important;
+    color: #387e39 !important;
     text-decoration: none !important;
+}
+
+.button-format {
+    background-color: #387e39 !important;
+    padding: 12px;
 }
 
 .center {

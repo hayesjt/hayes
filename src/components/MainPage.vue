@@ -143,16 +143,8 @@
             </b-row>
         </div>
 
-        <b-row>
-            <b-col lg="4">
-            </b-col>
-            <b-col lg="4" class="text-center center">
-                <b-img class="bottom-space-needed" src="../assets/plants_on_rug.png" fluid center></b-img>
-                <h3>Stay in Touch</h3>
-            </b-col>
-            <b-col lg="4">
-            </b-col>
-        </b-row>
+        <contact-section></contact-section>
+
     </b-container>
 
     <Footer></Footer>
@@ -162,12 +154,14 @@
 <script>
 import NavBar from "@/components/NavBar";
 import Footer from "@/components/Footer";
+import ContactSection from './universal-components/ContactSection.vue';
 
 export default {
     name: "MainPage",
     components: {
         NavBar,
         Footer,
+        ContactSection,
     },
 };
 </script>
