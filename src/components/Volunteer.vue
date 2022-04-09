@@ -95,6 +95,37 @@
                     <list-item icon="suit-heart-fill" listtext="Friend" />
                 </b-col>
             </b-row>
+
+                        <b-row>
+                <b-col lg="12" class="text-center">
+                    <h3>SAMPLE WORK</h3>
+                </b-col>
+            </b-row>
+
+            <b-row>
+                <b-col lg="12" class="text-center">
+                    <p>Here are few project I am very proud of.</p>
+                </b-col>
+            </b-row>
+
+            <b-row>
+                <b-col lg="3" class="text-center">
+                    <b-img class="bottom-space-needed" src="../assets/volunteer/rsr_pride_merch.png" fluid center></b-img>
+                    <h5>Ruff Start Rescue Pride Merch</h5>
+                </b-col>
+                <b-col lg="3" class="text-center">
+                    <b-img class="bottom-space-needed" src="../assets/volunteer/hola_ka_lani_giftcard.png" fluid center></b-img>
+                    <h5>Hola Ka Lani Gift Card Designs</h5>
+                </b-col>
+                <b-col lg="3" class="text-center">
+                    <b-img class="bottom-space-needed" src="../assets/volunteer/rsr_sasha_fit.png" fluid center></b-img>
+                    <h5>Sashi Fit Fitness Funraiser Graphics</h5>
+                </b-col>
+                <b-col lg="3" class="text-center">
+                    <b-img class="bottom-space-needed" src="../assets/volunteer/rsr_auction.png" fluid center></b-img>
+                    <h5>Ruff Start Rescue Auction Graphics</h5>
+                </b-col>
+            </b-row>
         </div>
 
 <contact-section></contact-section>
