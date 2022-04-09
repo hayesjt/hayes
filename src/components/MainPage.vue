@@ -146,21 +146,17 @@
         <contact-section></contact-section>
 
     </b-container>
-
-    <Footer></Footer>
 </div>
 </template>
 
 <script>
 import NavBar from "@/components/NavBar";
-import Footer from "@/components/Footer";
 import ContactSection from './universal-components/ContactSection.vue';
 
 export default {
     name: "MainPage",
     components: {
         NavBar,
-        Footer,
         ContactSection,
     },
 };

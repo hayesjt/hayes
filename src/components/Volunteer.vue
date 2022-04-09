@@ -62,7 +62,7 @@
 
                     <h3>Target Pro Bono</h3>
                     <p>
-                        Target asks Engineers to participate in various Pro Bono projects that relate to the teams they are currently on.I was extremely excited to take on the Pro Bono project that opened for my team and will continue to volunteer for these oppurtunities as they come along. 
+                        Target asks Engineers to participate in various Pro Bono projects that relate to the teams they are currently on.I was extremely excited to take on the Pro Bono project that opened for my team and will continue to volunteer for these oppurtunities as they come along.
                     </p>
                     <p>
                         Recently, a spa in downtown Minneapolis, Hola Ka Lani, applied to Target's Pro Bono program and got accepted. They were looking to sell e-gift cards, introduce drop shipping for products, and update their website.
@@ -84,7 +84,7 @@
 
                     <h3>Mentorship & Friendship</h3>
                     <p>
-                        After completing both my bootcamps I got a large amount of people reaching out to me via LinkedIn asking about my experiences with the bootcamps, getting a career after, and topics that would be good to start learning if they wanted to take this route. 
+                        After completing both my bootcamps I got a large amount of people reaching out to me via LinkedIn asking about my experiences with the bootcamps, getting a career after, and topics that would be good to start learning if they wanted to take this route.
                     </p>
                     <p>
                         I have taken this oppurtunity to become a mentor, make incredible friendships, and support others with a simliar background in whatever way possible. This has been extremely rewarding for me and continues to be something I look forward to.
@@ -96,7 +96,7 @@
                 </b-col>
             </b-row>
 
-                        <b-row>
+            <b-row>
                 <b-col lg="12" class="text-center">
                     <h3>SAMPLE WORK</h3>
                 </b-col>
@@ -128,22 +128,19 @@
             </b-row>
         </div>
 
-<contact-section></contact-section>
+        <contact-section></contact-section>
     </b-container>
-    <Footer></Footer>
 </div>
 </template>
 
 <script>
 import NavBar from "@/components/NavBar";
-import Footer from "@/components/Footer";
 import ListItem from "@/components/universal-components/ListItem"
 import ContactSection from './universal-components/ContactSection.vue';
 
 export default {
     components: {
         NavBar,
-        Footer,
         ListItem,
         ContactSection,
     },

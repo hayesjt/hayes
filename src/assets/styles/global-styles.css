@@ -82,6 +82,11 @@ p {
     margin-right: 10px;
 }
 
+.total-button-space {
+    margin: 10px;
+    background-color: black;
+}
+
 .large-bottom-space {
     margin-bottom: 50px;
 }
