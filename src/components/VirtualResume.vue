@@ -24,13 +24,7 @@
                             <h3 class="large-title-space">OBJECTIVE</h3>
                             <hr />
                             <p>
-                                Creative and efficacious young professional who thrives in a fast
-                                paced and collaborative environment. Seeking a position that
-                                challenges my skills in full stack development and pushes my limits
-                                to expand my knowledge. Passionate about simplifying complicated
-                                problems, collecting data, and designing strong client-side
-                                applications. Looking to leverage past design experience and bring a
-                                new prospective to a technical environment.
+                                Creative and efficacious young professional who thrives in a fast paced and collaborative environment. Seeking a position that challenges my skills in full stack development and pushes my limits to expand my knowledge. Passionate about simplifying complex problems, data, and designing strong client-side applications. Looking to leverage past design experience, and current engineering experiences in a fun and forward-thinking environment. 
                             </p>
                         </b-col>
                     </b-row>
