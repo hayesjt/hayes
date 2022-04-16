@@ -68,6 +68,7 @@
                     <h3 class="title-space">COURSES</h3>
                     <hr />
                     <course-list coursetitle="Software Engineering 101: Use Software Engineering to Plan and Build Amazing" courselink="https://www.udemy.com/share/101BHy3@u2ztB1846i3rvyVmVAtN2uR8LLgwMkXwlbc44-X3mqmjMzvK6qVbK-VhZFDrirR9/"></course-list>
+                    <course-list coursetitle="React JS, Angular and Vue JS - Quickstart and Comparison" courselink="https://www.udemy.com/share/101FS83@vaui2kvOQn7wZLcmVUFsUUGbrJ82MRRucy-6uywTMAScyLWXVJSUlcdEK2c2jbnn/"></course-list>
                     <course-list class="large-bottom-space" coursetitle="Computer Science 101: Learn Computer Science to become a better Programmer and Software Engineer." courselink="https://www.udemy.com/share/101Y3O3@MUKyc_DZAixiNkDGiVRxAAjoOG54T5tHEYi1BYp8AMZsw9Zo_YOi02QxZGN8t71q/"></course-list>
 
                 </b-col>
