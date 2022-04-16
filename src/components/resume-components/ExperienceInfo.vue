@@ -2,11 +2,11 @@
 <b-container>
 
     <b-row class="top-space-needed border-needed">
-        <b-col>
+        <b-col sm="6" lg="12">
             <p><em>{{ time }}</em></p>
             <p>{{ summary }}</p>
         </b-col>
-        <b-col>
+        <b-col sm="6" lg="12">
             <list-item :icon='icon1' :listtext='listitem1' />
             <list-item :icon='icon2' :listtext='listitem2' />
             <list-item :icon='icon3' :listtext='listitem3' />
