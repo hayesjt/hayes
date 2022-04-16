@@ -121,6 +121,7 @@ p {
 
 .center {
     margin: auto;
+    text-align: center;
 }
 
 .outline #footer-custom {
