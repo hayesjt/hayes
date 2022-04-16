@@ -1,3 +1,5 @@
+![This is an image](public/site_haylee_header.png)
+
 # Site Haylee (Portfolio and New Developer Resources)
 ##### By: Haylee Thomas-Kuhlmann 
 

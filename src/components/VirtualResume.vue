@@ -115,8 +115,8 @@
 <script>
 import NavBar from '@/components/NavBar';
 import ListItem from '@/components/universal-components/ListItem.vue';
-import ExperienceTitle from '@/components/universal-components/ExperienceTitle.vue';
-import ExperienceInfo from '@/components/universal-components/ExperienceInfo.vue';
+import ExperienceTitle from '@/components/resume-components/ExperienceTitle.vue';
+import ExperienceInfo from '@/components/resume-components/ExperienceInfo.vue';
 import CourseList from './resume-components/CourseList.vue';
 import ContactSection from './universal-components/ContactSection.vue';
 
