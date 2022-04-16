@@ -4,13 +4,13 @@
 
     <b-container class="content-container">
 
-        <b-img src="../assets/headers/volunteer_work_header.png" fluid-grow></b-img>
+        <b-img src="../assets/headers/volunteer_work_header.png" alt="Volunteer text with hanging plant graphics" fluid-grow></b-img>
 
         <div class="border-needed">
             <b-row>
 
                 <b-col lg="4">
-                    <b-img class="bottom-space-needed" src="../assets/headshots/leo_headshot.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/headshots/leo_headshot.png" alt="Haylee and their dog Leo" fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">
@@ -32,7 +32,7 @@
 
             <b-row>
                 <b-col lg="4">
-                    <b-img class="bottom-space-needed" src="../assets/headshots/dogs_headshot.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/headshots/dogs_headshot.png" alt="Haylee with two puppies" fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">
@@ -55,7 +55,7 @@
 
             <b-row>
                 <b-col lg="4">
-                    <b-img class="bottom-space-needed" src="../assets/headshots/target_headshot.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/headshots/target_headshot.png" alt="Haylee Target headshot" fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">
@@ -77,7 +77,7 @@
 
             <b-row>
                 <b-col lg="4">
-                    <b-img class="bottom-space-needed" src="../assets/headshots/team_headshot.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/headshots/team_headshot.png" alt="Haylee and friend at Yellowstone National Park" fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">
@@ -110,19 +110,19 @@
 
             <b-row>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/volunteer/rsr_pride_merch.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/volunteer/rsr_pride_merch.png" alt="Ruff Start Rescue pride sweatshirt" fluid center></b-img>
                     <h5>Ruff Start Rescue Pride Merch</h5>
                 </b-col>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/volunteer/hola_ka_lani_giftcard.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/volunteer/hola_ka_lani_giftcard.png" alt="Gift card graphic for Hola Ka Lani Spa" fluid center></b-img>
                     <h5>Hola Ka Lani Gift Card Designs</h5>
                 </b-col>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/volunteer/rsr_sasha_fit.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/volunteer/rsr_sasha_fit.png" alt="Ruff Start Sasha Fit workout event Graphic" fluid center></b-img>
                     <h5>Sashi Fit Fitness Funraiser Graphics</h5>
                 </b-col>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/volunteer/rsr_auction.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/volunteer/rsr_auction.png" alt="Ruff Start Rescue Auction event graphic" fluid center></b-img>
                     <h5>Ruff Start Rescue Auction Graphics</h5>
                 </b-col>
             </b-row>

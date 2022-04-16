@@ -4,12 +4,12 @@
 
     <b-container class="content-container">
 
-        <b-img src="../assets/headers/resume_header.png" fluid-grow></b-img>
+        <b-img src="../assets/headers/resume_header.png" alt="Resume text with hanging plant graphics" fluid-grow></b-img>
 
         <div class="border-needed">
             <b-row class="large-title-space">
                 <b-col lg="4" sm="12" class="text-center">
-                    <b-img src="../assets/headshots/resume_headshot.png" fluid></b-img>
+                    <b-img src="../assets/headshots/resume_headshot.png" alt="Haylee Resume Headshot photo" fluid></b-img>
                 </b-col>
                 <b-col lg="8" sm="12">
                     <b-row>

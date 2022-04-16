@@ -4,13 +4,13 @@
 
     <b-container class="content-container">
 
-        <b-img src="../assets/headers/dev_project_header.png" fluid-grow></b-img>
+        <b-img src="../assets/headers/dev_project_header.png" alt="Developer Project text with hanging plant graphics" fluid-grow></b-img>
 
         <div class="border-needed">
             <b-row>
 
                 <b-col lg="4">
-                    <b-img class="bottom-space-needed" src="../assets/dev_work/2022 portfolio.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/dev_work/2022 portfolio.png" alt="Clip of 2022 Portfolio website" fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">
@@ -30,7 +30,7 @@
 
             <b-row>
                 <b-col lg="4">
-                    <b-img class="bottom-space-needed" src="../assets/dev_work/preoccupied_pup.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/dev_work/preoccupied_pup.png" alt="Clip of preoccupied pup website" fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">
@@ -56,7 +56,7 @@
 
             <b-row>
                 <b-col lg="4">
-                    <b-img class="bottom-space-needed" src="../assets/dev_work/2020 portfolio.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/dev_work/2020 portfolio.png" alt="Clip of 2020 Portfolio website"  fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">
@@ -81,7 +81,7 @@
 
             <b-row>
                 <b-col lg="4">
-                    <b-img class="bottom-space-needed" src="../assets/dev_work/fuzzy_friend_finder.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/dev_work/fuzzy_friend_finder.png" alt="Clip of fuzzy friend finder website" fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">
@@ -106,7 +106,7 @@
 
             <b-row>
                 <b-col lg="4">
-                    <b-img class="bottom-space-needed" src="../assets/dev_work/module_planner.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/dev_work/module_planner.png" alt="Clip of module planner website" fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">
@@ -131,7 +131,7 @@
 
             <b-row>
                 <b-col lg="4">
-                    <b-img class="bottom-space-needed" src="../assets/dev_work/smart_health.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/dev_work/smart_health.png" alt="Clip of smart health website" fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">

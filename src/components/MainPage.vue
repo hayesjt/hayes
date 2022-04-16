@@ -10,7 +10,7 @@
                 <b-col lg="1">
                 </b-col>
                 <b-col lg="5">
-                    <b-img class="bottom-space-needed" src="../assets/headshots/standing_headshot.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/headshots/standing_headshot.png" alt="Welcome text with hanging plant graphics" fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">
@@ -51,7 +51,7 @@
                     </p>
                 </b-col>
                 <b-col lg="5">
-                    <b-img class="bottom-space-needed" src="../assets/headshots/close_headshot.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/headshots/close_headshot.png" alt="Haylee close up headshot" fluid center></b-img>
                 </b-col>
                 <b-col lg="1">
                 </b-col>
@@ -73,38 +73,38 @@
 
             <b-row>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/hobbies/plants.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/hobbies/plants.png" alt="Plants in colored pots" fluid center></b-img>
                     <h5>House Plants</h5>
                 </b-col>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/hobbies/animals.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/hobbies/animals.png" alt="Dog and Cat" fluid center></b-img>
                     <h5>Animal Welfare</h5>
                 </b-col>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/hobbies/green_hand.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/hobbies/green_hand.png" alt="Hand holding plants" fluid center></b-img>
                     <h5>Sustainability</h5>
                 </b-col>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/hobbies/books.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/hobbies/books.png" alt="Books stacked side by side" fluid center></b-img>
                     <h5>Literature</h5>
                 </b-col>
             </b-row>
 
             <b-row>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/hobbies/coffee.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/hobbies/coffee.png" alt="Coffee" fluid center></b-img>
                     <h5>Coffee Lover</h5>
                 </b-col>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/hobbies/vw.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/hobbies/vw.png" alt="Volkswagen van" fluid center></b-img>
                     <h5>Volkswagen</h5>
                 </b-col>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/hobbies/food.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/hobbies/food.png" alt="Sushi and buns" fluid center></b-img>
                     <h5>Foodie</h5>
                 </b-col>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/hobbies/paper_plane.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/hobbies/paper_plane.png" alt="Paper Airplane" fluid center></b-img>
                     <h5>Travel</h5>
                 </b-col>
             </b-row>
@@ -125,19 +125,19 @@
 
             <b-row>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/books/quiet.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/books/quiet.png" alt="Book with title of Quiet" fluid center></b-img>
                     <h5>Quiet: The Power of Introverts in a World That Can't Stop Talking</h5>
                 </b-col>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/books/what_happened_to_you.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/books/what_happened_to_you.png" alt="Book with title of What Happened to You" fluid center></b-img>
                     <h5>What Happened to You? Conversations on Trauma, Resilience, and Healing</h5>
                 </b-col>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/books/gender_and_our_brains.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/books/gender_and_our_brains.png" alt="Book with title of Gender and Our Brains" fluid center></b-img>
                     <h5>Gender and Our Brains: How New Neuroscience Explodes the Myths of the Male and Female Minds</h5>
                 </b-col>
                 <b-col lg="3" class="text-center">
-                    <b-img class="bottom-space-needed" src="../assets/books/atomic_habits.png" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/books/atomic_habits.png" alt="Book with title of Atomic Habits" fluid center></b-img>
                     <h5>Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones</h5>
                 </b-col>
             </b-row>

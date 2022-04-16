@@ -4,7 +4,7 @@
         <b-col lg="4">
         </b-col>
         <b-col lg="4" class="text-center center">
-            <b-img class="bottom-space-needed" src="../../assets/contact/plants_on_rug.png" fluid center></b-img>
+            <b-img class="bottom-space-needed" src="../../assets/contact/plants_on_rug.png" alt="Plants and Chair on Rug" fluid center></b-img>
             <h3>Let's Stay in Touch</h3>
         </b-col>
         <b-col lg="4">
