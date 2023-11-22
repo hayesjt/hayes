@@ -3,6 +3,9 @@
 # Hayes (Personal Website)
 ##### By: Hayes Thomas
 
+This site is hosted on Netlify, status check:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1234955e-3321-4965-9dd5-ecabd07db218/deploy-status)](https://app.netlify.com/sites/sitehayes/deploys)
+
 ## Table of Contents  
 - [Project Description](#project-description)  
 - [Project setup](#project-setup) 
