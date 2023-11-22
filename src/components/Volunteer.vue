@@ -10,7 +10,7 @@
             <b-row>
 
                 <b-col lg="4">
-                    <b-img class="bottom-space-needed" src="../assets/headshots/leo_headshot.png" alt="Haylee and their dog Leo" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/headshots/leo_headshot.png" alt="Hayes and their dog Leo" fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">
@@ -32,7 +32,7 @@
 
             <b-row>
                 <b-col lg="4">
-                    <b-img class="bottom-space-needed" src="../assets/headshots/dogs_headshot.png" alt="Haylee with two puppies" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/headshots/dogs_headshot.png" alt="Hayes with two puppies" fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">
@@ -55,7 +55,7 @@
 
             <b-row>
                 <b-col lg="4">
-                    <b-img class="bottom-space-needed" src="../assets/headshots/target_headshot.png" alt="Haylee Target headshot" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/headshots/target_headshot.png" alt="Hayes Target headshot" fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">
@@ -77,7 +77,7 @@
 
             <b-row>
                 <b-col lg="4">
-                    <b-img class="bottom-space-needed" src="../assets/headshots/team_headshot.png" alt="Haylee and friend at Yellowstone National Park" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/headshots/team_headshot.png" alt="Hayes and friend at Yellowstone National Park" fluid center></b-img>
                 </b-col>
 
                 <b-col lg="5" class="text-center center">

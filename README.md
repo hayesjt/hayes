@@ -1,7 +1,7 @@
-![This is an image](public/site_haylee_header.png)
+![This is an image](public/site_hayes_header.png)
 
-# Site Haylee (Portfolio and New Developer Resources)
-##### By: Haylee Thomas-Kuhlmann 
+# Hayes (Personal Website)
+##### By: Hayes Thomas
 
 ## Table of Contents  
 - [Project Description](#project-description)  
@@ -9,7 +9,7 @@
 
 ## Project Description:
 
-Site Haylee is a website for those looking for details on my career and skills or new developer resouces that I am looking to share out to those going through the same journey I did. If you found this site helpful or think something is missing feel free to connect on [Linkedin](https://www.linkedin.com/in/hayleetk/) and let me know! 
+Hayes is a website for those looking for details on my career and skills. If you found this site helpful or think something is missing feel free to connect on [Linkedin](https://www.linkedin.com/in/hayesjasperthomas/) and let me know! 
 
 Technology Used:
 - Vue.js

@@ -24,7 +24,7 @@
                     </p>
                 </b-col>
                 <b-col lg="3" class="text-center center">
-                    <b-button pill href="https://github.com/haylee430/site_haylee" class="button-format">Git Hub Repository</b-button>
+                    <b-button pill href="https://github.com/hayesjt/hayes" class="button-format">Git Hub Repository</b-button>
                 </b-col>
             </b-row>
 
@@ -45,7 +45,7 @@
                 <b-col lg="3" class="text-center center">
                     <b-row>
                         <b-col lg="12" sm="12">
-                            <b-button pill href="https://github.com/haylee430/preoccupied_pup" class="button-format">Git Hub Repository</b-button>
+                            <b-button pill href="https://github.com/hayesjt/preoccupied_pup" class="button-format">Git Hub Repository</b-button>
                         </b-col>
                         <b-col lg="12" sm="12">
                             <b-button pill href="https://www.youtube.com/watch?v=VZGfBGbmEWY&t=25s" class="button-format top-space-needed">Video Presentation</b-button>
@@ -70,10 +70,7 @@
                 <b-col lg="3" class="text-center center">
                     <b-row>
                         <b-col lg="12" sm="12">
-                            <b-button pill href="https://github.com/haylee430/2020_portfolio" class="button-format">Git Hub Repository</b-button>
-                        </b-col>
-                        <b-col lg="12" sm="12">
-                            <b-button pill href="https://haylee430.github.io/2020_portfolio/" class="button-format top-space-needed">Visit the Site</b-button>
+                            <b-button pill href="https://github.com/hayesjt/2020_portfolio" class="button-format">Git Hub Repository</b-button>
                         </b-col>
                     </b-row>
                 </b-col>
@@ -95,10 +92,7 @@
                 <b-col lg="3" class="text-center center">
                     <b-row>
                         <b-col lg="12" sm="12">
-                            <b-button pill href="https://github.com/haylee430/fuzzy_friend_finder" class="button-format">Git Hub Repository</b-button>
-                        </b-col>
-                        <b-col lg="12" sm="12">
-                            <b-button pill href="https://fuzzyfriendfinder.herokuapp.com/" class="button-format top-space-needed">Visit the Site</b-button>
+                            <b-button pill href="https://github.com/hayesjt/fuzzy_friend_finder" class="button-format">Git Hub Repository</b-button>
                         </b-col>
                     </b-row>
                 </b-col>
@@ -120,10 +114,7 @@
                 <b-col lg="3" class="text-center center">
                     <b-row>
                         <b-col lg="12" sm="12">
-                            <b-button pill href="https://github.com/haylee430/module_planner" class="button-format">Git Hub Repository</b-button>
-                        </b-col>
-                        <b-col lg="12" sm="12">
-                            <b-button pill href="https://moduleplanner2020.herokuapp.com/" class="button-format top-space-needed">Visit the Site</b-button>
+                            <b-button pill href="https://github.com/hayesjt/module_planner" class="button-format">Git Hub Repository</b-button>
                         </b-col>
                     </b-row>
                 </b-col>
@@ -147,10 +138,7 @@
                 <b-col lg="3" class="text-center center">
                     <b-row>
                         <b-col lg="12" sm="12">
-                            <b-button pill href="https://smartheath.herokuapp.com/" class="button-format">Git Hub Repository</b-button>
-                        </b-col>
-                        <b-col lg="12" sm="12">
-                            <b-button pill href="https://github.com/haylee430/Project_3" class="button-format top-space-needed">Visit the Site</b-button>
+                            <b-button pill href="https://github.com/hayesjt/Project_3" class="button-format">Git Hub Repository</b-button>
                         </b-col>
                     </b-row>
                 </b-col>

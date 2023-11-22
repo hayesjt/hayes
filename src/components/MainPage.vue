@@ -17,8 +17,8 @@
 
                     <h3>Hi there! Thanks for stopping in.</h3>
                     <p>
-                        My name is Haylee Thomas-Kuhlmann and I currently work as a Software
-                        Engineer for Target’s digital cart and checkout experience.
+                        My name is Hayes Thomas and I currently work as a Software
+                        Engineer on Target’s digital cart and checkout experience.
                     </p>
                     <p>
                         I’ve created this space to connect with like-minded people, share my
@@ -51,7 +51,7 @@
                     </p>
                 </b-col>
                 <b-col lg="5">
-                    <b-img class="bottom-space-needed" src="../assets/headshots/close_headshot.png" alt="Haylee close up headshot" fluid center></b-img>
+                    <b-img class="bottom-space-needed" src="../assets/headshots/close_headshot.png" alt="close up headshot of Hayes" fluid center></b-img>
                 </b-col>
                 <b-col lg="1">
                 </b-col>
@@ -119,7 +119,7 @@
 
             <b-row>
                 <b-col lg="12" class="text-center">
-                    <p>I currently use an app called GoodReads to track my books - <a href="https://www.goodreads.com/user/show/146290379-haylee-thomas-kuhlmann">lets connect</a> if your intrested.</p>
+                    <p>I currently use an app called GoodReads to track my books - <a href="https://www.goodreads.com/hayesjt">lets connect</a> if your intrested.</p>
                 </b-col>
             </b-row>
 

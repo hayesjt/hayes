@@ -9,22 +9,22 @@
         <div class="border-needed">
             <b-row class="large-title-space">
                 <b-col lg="4" sm="12" class="text-center">
-                    <b-img src="../assets/headshots/resume_headshot.png" alt="Haylee Resume Headshot photo" fluid></b-img>
+                    <b-img src="../assets/headshots/resume_headshot.png" alt="Hayes Resume Headshot photo" fluid></b-img>
                 </b-col>
                 <b-col lg="8" sm="12">
                     <b-row>
                         <b-col cols="12" class="center-text">
-                            <h3>HAYLEE THOMAS-KUHLMANN</h3>
+                            <h3>HAYES THOMAS</h3>
                         </b-col>
                         <b-col cols="12">
                             <h5 class="center-text bottom-space-needed">
-                                Maple Grove, MN | hay.design.lee@gmail | Linkedin | Github
+                                Minneapolis, MN | hayesjasperthomas@gmail
                             </h5>
 
                             <h3 class="large-title-space">OBJECTIVE</h3>
                             <hr />
                             <p>
-                                Creative and efficacious young professional who thrives in a fast paced and collaborative environment. Seeking a position that challenges my skills in full stack development and pushes my limits to expand my knowledge. Passionate about simplifying complex problems, data, and designing strong client-side applications. Looking to leverage past design experience, and current engineering experiences in a fun and forward-thinking environment.
+                                Dedicated and results-oriented Backend Developer with three years of hands-on experience in designing, implementing, and maintaining robust and scalable server-side solutions. Proficient in full-stack development, with a focus on backend architecture, security, and API integration. Adept at collaborating with cross-functional teams to deliver high-quality software solutions that meet both user and business requirements.                            
                             </p>
                         </b-col>
                     </b-row>
@@ -75,12 +75,12 @@
                 <b-col lg="8" sm="12">
                     <h3>CAREER HISTORY</h3>
                     <hr />
-                    <experience-title icon="briefcase-fill" title="Target | Engineer | Brooklyn Park, MN" />
-                    <experience-info time="Jan 2022 - Present" summary="Active Software Engineer on the Digital Checkout team. Working on high level Cart, Checkout, and Payment functionality and features that drive a better guest experience and business growth across Targets digital platform." icon1="cloud-fill" listitem1="REST API's" icon2="gear-fill" listitem2="Backend Functionality and Testing" icon3="bar-chart-fill" listitem3="Operational On-call Support" icon4="basket2-fill" listitem4="Cart, Checkout, and Payments Processes" />
-                    <experience-title icon="briefcase-fill" title="Target | Emerging Engineer | Minneapolis, MN" />
-                    <experience-info time="Jan 2021 - Jan 2022" summary="Targets Emerging Engineer program takes individuals from unconventional tech education backgrounds and mentors them into a software engineer position through a variety of trainings, mentorships, and opportunities to work on features." icon1="pencil-fill" listitem1="Backend Development Growth and learning" icon2="display" listitem2="Computer Science Fundamentals" icon3="github" listitem3="Software Engineering Fundamentals" icon4="basket2-fill" listitem4="Start Feature and On-call Support" />
+                    <experience-title icon="briefcase-fill" title="Target | Engineer | Minneapolis, MN" />
+                    <experience-info time="Dev 2020 - Present" summary="Designing, developing, and maintaining robust and scalable APIs to facilitate seamless communication between different software systems. My role revolves around crafting efficient solutions that adhere to industry best practices and standards, ensuring optimal performance and reliability for both cart and checkout on Target.com" />
+                    <experience-title icon="briefcase-fill" title="Target | Security Ninja | Minneapolis, MN" />
+                    <experience-info time="Dev 2020 - Present" summary="Expertise in identifying and mitigating security risks, implementing secure coding practices, and collaborating with cross-functional teams to enhance the overall security posture of Target’s cart and checkout software applications" />
                     <experience-title icon="briefcase-fill" title="Target | Store Planner | Minneapolis, MN" />
-                    <experience-info time="Mar 2019 - Jan 2021" summary="Worked with a team of designers in multiple areas of Target such as grocery, Starbucks, snack bar, pets, and beauty. Projects would range from full remodels, new space layouts, to replacement of fixtures. This position required a lot of cross cutting collaboration and communication skills using many mediums such as plans, elevations, renderings, and presentations." icon1="grid1x2-fill" listitem1="Space Planning" icon2="easel-fill" listitem2="Design Solutions" icon3="mouse2" listitem3="2D and 3D Modeling" icon4="bullseye" listitem4="Target Starbucks and Snack Bar Designs" />
+                    <experience-info time="Mar 2019 - Jan 2021" summary="Collaborated with design, architecture, and construction management teams to enhance store layouts and interior design. Played a key role in successful rollouts of new Starbucks, Snack Bar, and Grocery concepts, while also redesigning layouts for over 1,000 stores" />
                     <experience-title icon="briefcase-fill" title=" Cliq Studios | Designer | Edina, MN" />
                     <experience-info time="Jan 2018 - Mar 2019" summary="Worked independently with clients for Kitchen Design and cabinet needs. Though most projects were for large kitchens there was also opportunities for whole home designs including bathrooms, laundry rooms, pantries, and bars." icon1="grid1x2-fill" listitem1="Space Planning" icon2="easel-fill" listitem2="Design Solutions" icon3="briefcase-fill" listitem3="Customer Service Experience" icon4="basket2-fill" listitem4="Drive Sales" />
                     <experience-title icon="briefcase-fill" title="Luther Volkswagen | Receptionist | St. Louis Park, MN" />
